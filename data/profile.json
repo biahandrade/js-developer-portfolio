@@ -46,8 +46,15 @@
   ],
   "portfolio": [
     {
-      "title": "Meu Portfólio",
-      "link": "https://biahandrade.github.io/portfolio-projeto-Dio/"
+      "name": "Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos",
+      "url": "https://github.com/biahandrade/projeto-yougioh-dio",
+      "github": true
+    },
+    {
+      "name": "Este é meu primeiro portfólio, criado para o desafio do Bootcamp Santander com a DIO.",
+      "url": "https://github.com/biahandrade/portfolio-projeto-Dio",
+      "github": true
+    
     }
   ],
   "professionalExperience": [
